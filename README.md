@@ -13,6 +13,12 @@ The SIEM monitors critical Windows security events such as failed logins, privil
 - Builds foundational expertise for roles in Security Operations Centers (SOC) and cybersecurity monitoring.
 - Lays groundwork for further enhancements such as alerting and automated incident response.
 
+### SCREENSHOTS
+<img width="1766" height="931" alt="image" src="https://github.com/user-attachments/assets/64c1bedc-32d6-406d-9c29-c68358c1579d" />
+<img width="1903" height="938" alt="image" src="https://github.com/user-attachments/assets/efeca4bf-1528-48a5-a7aa-b66a4ac04359" />
+
+
+
 ## Tools Used
 
 - **Winlogbeat**: Lightweight shipper to collect Windows event logs.
